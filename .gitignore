@@ -1,0 +1,27 @@
+# Ignore environment variable file
+.env
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Render deploy cache (optional)
+render-build/
+
+# Others
+*.swp
+*.bak
+*.tmp
